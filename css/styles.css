@@ -40,7 +40,7 @@
         .editable-style.centered {
             left: 50%;
             width: 980px;
-            margin-left: -490px;
+            margin-left: 490px;
             position: absolute;
         }
         
@@ -69,7 +69,7 @@
         .page-content .heading1 {
             font-size: 36px;
             font-family: sans-serif;
-            color: #3D3D3D;
+            color: black;
             font-weight: normal;
         }
         
@@ -102,28 +102,79 @@
     
         .silex-id-1439555806958-90 {
             cursor: auto;
-            background-color: rgb(255, 255, 255);
+            background-color: rgba(255, 140, 41, 1);
+        }
+        
+        .silex-id-1502119091205-9 {
+            top: 1032.6666870117188px;
+            left: NaNpx;
+            background-color: transparent;
+        }
+        
+        .silex-id-1502119091205-10 {
+            min-height: 108px;
+            background-color: transparent;
+        }
+        
+        .silex-id-1502119128967-12 {
+            width: 385px;
+            top: 4px;
+            left: 9px;
+            min-height: 100px;
+        }
+        
+        .silex-id-1502119200173-14 {
+            width: 924px;
+            top: 22px;
+            left: 19px;
+            background-color: transparent;
+            min-height: 78px;
+        }
+        
+        .silex-id-1502119200173-15 {
+            width: 154px;
+            top: 37px;
+            left: 403px;
+            background-color: transparent;
+            min-height: 26px;
+        }
+        
+        .silex-id-1502119200174-17 {
+            width: 145px;
+            top: 36px;
+            left: 563px;
+            background-color: transparent;
+            min-height: 27px;
+        }
+        
+        .silex-id-1502119200174-18 {
+            width: 154px;
+            top: 36px;
+            left: 713px;
+            background-color: transparent;
+            min-height: 27px;
         }
         
         .silex-id-1484951384737-1 {
-            top: 0px;
-            left: 0px;
-            background-image: url('../assets/background_header.jpg');
+            top: 147px;
+            left: 5px;
+            /*background-image: url('../assets/background_header.jpg'); 
+    */
             background-position: center right;
             min-width: 945px;
             background-size: cover;
             background-repeat: no-repeat;
-            background-color: rgba(65, 73, 96, 1);
+            background-color: rgba(255, 140, 41, 1);
             background-attachment: scroll;
-            min-height: 693px;
+            min-height: 515px;
         }
         
         .silex-id-1484951384736-0 {
-            min-height: 693px;
-            background-color: transparent;
+            min-height: 515px;
+            background-color: rgba(224, 122, 36, 1);
             width: 945px;
             top: 15px;
-            left: 654px;
+            left: 651px;
         }
         
         @media only screen and (max-width: 480px),
@@ -136,51 +187,20 @@
             }
         }
         
-        .silex-id-1439555803858-60 {
-            width: 945px;
-            top: 26px;
-            left: -1px;
+        .silex-id-1502100612907-0 {
+            height: 271px;
+            width: 938px;
             background-color: transparent;
-            min-height: 47px;
-        }
-        
-        .silex-id-1439555803551-57 {
-            width: 150px;
-            top: 15px;
-            left: 794px;
-            background-color: transparent;
-            min-height: 23px;
-        }
-        
-        .silex-id-1439555803976-61 {
-            width: 385px;
-            top: -35px;
-            left: 1px;
-            min-height: 100px;
-        }
-        
-        .silex-id-1439555803757-59 {
-            width: 150px;
-            top: 11px;
-            left: 408px;
-            background-color: transparent;
-            min-height: 22px;
-        }
-        
-        .silex-id-1439555803655-58 {
-            width: 150px;
-            top: 10px;
-            left: 559px;
-            background-color: transparent;
-            min-height: 25px;
+            top: 7px;
+            left: 2px;
         }
         
         .silex-id-1439555803032-54 {
-            width: 945px;
-            top: 253px;
-            left: 0px;
+            width: 859px;
+            top: 295px;
+            left: 30px;
             background-color: transparent;
-            min-height: 87px;
+            min-height: 215px;
         }
         
         @media only screen and (max-width: 480px),
@@ -193,10 +213,205 @@
             }
         }
         
+        .silex-id-1492777224370-7 {
+            width: 46px;
+            min-height: 168px;
+            background-color: transparent;
+            top: 217px;
+            left: 0px;
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1492777224370-7 {
+                top: 0px;
+                left: 178px;
+                width: 113px;
+                min-height: 95px;
+            }
+        }
+        
+        .silex-id-1484952760464-11 {
+            top: 5px;
+            left: 5px;
+            min-width: 945px;
+        }
+        
+        .silex-id-1484952760463-10 {
+            min-height: 362px;
+            background-color: transparent;
+            top: 15px;
+            left: 651px;
+            width: 945px;
+        }
+        
+        .silex-id-1484952775498-12 {
+            min-height: 288px;
+            width: 877px;
+            top: 58px;
+            left: 33px;
+        }
+        
+        .silex-id-1502136278223-2 {
+            background-color: rgba(235, 235, 235, 1);
+            top: 698px;
+            left: 5px;
+            min-width: 945px;
+        }
+        
+        .silex-id-1502136278223-1 {
+            width: 945px;
+            background-color: rgba(208, 183, 152, 1);
+            min-height: 836px;
+            top: 15px;
+            left: 211px;
+        }
+        
+        .silex-id-1502136552669-3 {
+            width: 935px;
+            min-height: 48px;
+            top: 22px;
+            left: 4px;
+        }
+        
+        .silex-id-1502136911981-4 {
+            width: 336px;
+            min-height: 176px;
+            top: 96px;
+            left: 475px;
+        }
+        
+        .silex-id-1502119625941-19 {
+            width: 362px;
+            min-height: 175px;
+            top: 96px;
+            left: 104px;
+        }
+        
+        .silex-id-1502137341959-5 {
+            width: 382px;
+            min-height: 203px;
+            top: 349px;
+            left: 70px;
+        }
+        
+        .silex-id-1439555805723-78 {
+            width: 707px;
+            top: 294px;
+            left: 101px;
+            background-color: transparent;
+            min-height: 38px;
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1439555805723-78 {
+                top: 29px;
+                left: 23px;
+                width: 400px;
+                min-height: 119px;
+            }
+        }
+        
+        .silex-id-1502137373248-6 {
+            width: 345px;
+            min-height: 146px;
+            top: 350px;
+            left: 462px;
+        }
+        
+        .silex-id-1502120339405-21 {
+            width: 588px;
+            top: 558px;
+            left: 71px;
+            background-color: transparent;
+            min-height: 199px;
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1502120339405-21 {
+                top: 29px;
+                left: 23px;
+                width: 400px;
+                min-height: 119px;
+            }
+        }
+        
+        .silex-id-1439555805622-77 {
+            width: 242px;
+            top: 771px;
+            left: 345px;
+            background-color: rgb(43, 148, 126);
+            border-top-left-radius: 5px;
+            border-top-right-radius: 5px;
+            border-bottom-right-radius: 5px;
+            border-bottom-left-radius: 5px;
+            min-height: 46px;
+        }
+        
+        .silex-id-1439555805518-76 {
+            width: 215px;
+            top: 13px;
+            left: 14px;
+            background-color: transparent;
+            min-height: 20px;
+        }
+        
+        .silex-id-1484951794946-5 {
+            top: 1411px;
+            left: 5px;
+            background-color: rgba(248, 248, 248, 1);
+            min-width: 945px;
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1484951794946-5 {
+                top: 535px;
+                left: 0px;
+            }
+        }
+        
+        .silex-id-1484951794946-4 {
+            min-height: 1351px;
+            background-color: transparent;
+            top: 15px;
+            left: 211px;
+            width: 945px;
+        }
+        
+        @media only screen and (max-width: 480px),
+        only screen and (max-device-width: 480px) {
+            .silex-id-1484951794946-4 {
+                min-height: 1689px;
+            }
+        }
+        
+        .silex-id-1439555805010-71 {
+            width: 242px;
+            top: 1011px;
+            left: 341px;
+            background-color: rgb(43, 148, 126);
+            border-top-left-radius: 5px;
+            border-top-right-radius: 5px;
+            border-bottom-right-radius: 5px;
+            border-bottom-left-radius: 5px;
+            min-height: 46px;
+        }
+        
+        .silex-id-1439555804907-70 {
+            width: 215px;
+            top: 16px;
+            left: 14px;
+            background-color: transparent;
+            min-height: 28px;
+        }
+        
         .silex-id-1439555803447-56 {
             width: 242px;
-            top: 560px;
-            left: 348px;
+            top: 1006px;
+            left: 627px;
             background-color: rgb(43, 148, 126);
             border-top-left-radius: 5px;
             border-top-right-radius: 5px;
@@ -233,182 +448,30 @@
             }
         }
         
-        .silex-id-1492777224370-7 {
-            width: 46px;
-            min-height: 168px;
+        .silex-id-1439555805211-73 {
+            width: 927px;
+            top: 1166px;
+            left: 23px;
             background-color: transparent;
-            top: 217px;
-            left: 0px;
+            min-height: 152px;
         }
         
-        @media only screen and (max-width: 480px),
-        only screen and (max-device-width: 480px) {
-            .silex-id-1492777224370-7 {
-                top: 0px;
-                left: 178px;
-                width: 113px;
-                min-height: 95px;
-            }
-        }
-        
-        .silex-id-1484951794946-5 {
-            min-height: 100px;
-            top: 591px;
-            left: 0px;
-        }
-        
-        @media only screen and (max-width: 480px),
-        only screen and (max-device-width: 480px) {
-            .silex-id-1484951794946-5 {
-                top: 535px;
-                left: 0px;
-            }
-        }
-        
-        .silex-id-1484951794946-4 {
-            min-height: 1235px;
+        .silex-id-1502102557833-0 {
+            width: 916px;
+            top: 21px;
+            left: 16px;
             background-color: transparent;
+            min-height: 233px;
         }
         
         @media only screen and (max-width: 480px),
         only screen and (max-device-width: 480px) {
-            .silex-id-1484951794946-4 {
-                min-height: 1689px;
-            }
-        }
-        
-        .silex-id-1439555805416-75 {
-            width: 487.309px;
-            top: 60px;
-            left: 464px;
-            min-height: 303px;
-        }
-        
-        @media only screen and (max-width: 480px),
-        only screen and (max-device-width: 480px) {
-            .silex-id-1439555805416-75 {
-                top: 36px;
-                left: 11px;
-                width: 423px;
-                min-height: 248px;
-            }
-        }
-        
-        .silex-id-1439555805723-78 {
-            width: 400px;
-            top: 58px;
-            left: 47px;
-            background-color: transparent;
-            min-height: 178px;
-        }
-        
-        @media only screen and (max-width: 480px),
-        only screen and (max-device-width: 480px) {
-            .silex-id-1439555805723-78 {
+            .silex-id-1502102557833-0 {
                 top: 29px;
                 left: 23px;
                 width: 400px;
                 min-height: 119px;
             }
-        }
-        
-        .silex-id-1439555805622-77 {
-            width: 242px;
-            top: 246px;
-            left: 116px;
-            background-color: rgb(43, 148, 126);
-            border-top-left-radius: 5px;
-            border-top-right-radius: 5px;
-            border-bottom-right-radius: 5px;
-            border-bottom-left-radius: 5px;
-            min-height: 46px;
-        }
-        
-        .silex-id-1439555805518-76 {
-            width: 215px;
-            top: 17px;
-            left: 14px;
-            background-color: transparent;
-            min-height: 20px;
-        }
-        
-        .silex-id-1439555805314-74 {
-            width: 495.52px;
-            top: 515px;
-            left: -2px;
-            min-height: 152px;
-        }
-        
-        @media only screen and (max-width: 480px),
-        only screen and (max-device-width: 480px) {
-            .silex-id-1439555805314-74 {
-                top: 697px;
-                left: 11px;
-                width: 423px;
-                min-height: 123px;
-            }
-        }
-        
-        .silex-id-1439555805211-73 {
-            width: 400px;
-            top: 515px;
-            left: 533px;
-            background-color: transparent;
-            min-height: 146px;
-        }
-        
-        .silex-id-1439555805010-71 {
-            width: 242px;
-            top: 664px;
-            left: 533px;
-            background-color: rgb(43, 148, 126);
-            border-top-left-radius: 5px;
-            border-top-right-radius: 5px;
-            border-bottom-right-radius: 5px;
-            border-bottom-left-radius: 5px;
-            min-height: 46px;
-        }
-        
-        .silex-id-1439555804907-70 {
-            width: 215px;
-            top: 16px;
-            left: 14px;
-            background-color: transparent;
-            min-height: 28px;
-        }
-        
-        .silex-id-1439555805111-72 {
-            width: 400px;
-            top: 795px;
-            left: 268px;
-            background-color: transparent;
-            min-height: 53px;
-        }
-        
-        .silex-id-1439555804805-69 {
-            width: 484px;
-            top: 872px;
-            left: 219px;
-            background-color: rgb(255, 255, 255);
-            min-height: 331px;
-        }
-        
-        .silex-id-1484952760464-11 {
-            min-height: 100px;
-            top: 439px;
-            left: 0px;
-        }
-        
-        .silex-id-1484952760463-10 {
-            min-height: 585px;
-            background-color: transparent;
-        }
-        
-        .silex-id-1484952775498-12 {
-            min-height: 288px;
-            width: 877px;
-            top: 58px;
-            left: 33px;
         }
         
         .silex-id-1484951945204-7 {
